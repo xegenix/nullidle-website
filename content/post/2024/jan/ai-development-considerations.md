@@ -44,7 +44,7 @@ Better late than never, there are likely applications that already violate this 
 
 To further clarify real-world changes, such applications should not have the ability to interact either directly or indirectly with physical objects, devices, instruments, or sensors. Applications cannot have the capabilities of interaction with real-world objects, such as manipulating device power, manipulating settings or conditions, or indirectly triggering such changes through an unintelligent device. Applications should not possess the ability to directly collect or emit sounds, signals, energy, or transmit data directly within the physical world.
 
-### Isolated Virtualization
+### Isolative Execution
 
 Every artificial intelligence application should run in a self-contained virtual environment. No other applications should exist within the virtual environment to provide another layer of security and prevent the instance from leveraging other applications. Virtualization limits the potential for damage to the operating system, data, hardware, and users operating at the OS level.
 
