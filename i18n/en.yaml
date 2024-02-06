@@ -1,8 +1,8 @@
 # Content
 - id: dateFormat
-  translation: "January 2, 2006"
+  translation: "January 2, 2024"
 - id: shortdateFormat
-  translation: "Jan 2, 2006 15:04:05"
+  translation: "Jan 2, 2024 15:04:05"
 - id: postedOnDate
   translation: "Posted on {{ . }}"
 - id: lastModified
@@ -33,11 +33,11 @@
 
 # 404 page
 - id: pageNotFound
-  translation: "The following page was not found! Recheck your link! </br>Error (404)"
+  translation: "URL not found. Recheck your link. </br>Error (404)"
 
   # Footer
 - id: poweredBy # Accepts HTML
-  translation: 'Powered by <a href="https://gohugo.io">Hugo</a>'
+  translation: ''
 
 # Navigation
 - id: toggleNavigation
