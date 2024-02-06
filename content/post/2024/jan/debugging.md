@@ -10,7 +10,9 @@ description = 'Few minor problems during the transition to a serverless website 
 
 My goal was to start an entirely different website, but as I started using some content from NULLidle.com it just made more sense for a change in direction. It is also a relief having a statically served site, while I enjoy the benefits and features most content management systems may offer, this offers a level of security I can be comfortable with.
 
-# The Outcome
+<br/>
+
+# End Results 
 
 While the outcome was not what I initially intended, it did have several benefits for both myself and end-users.
 
