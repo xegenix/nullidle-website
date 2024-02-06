@@ -7,17 +7,18 @@ Description: 'My thoughts on the things we need to consider as artificial intell
 featured: false
 ---
 
-Artificial Intelligence is gaining traction at an alarming rate. For this reason, it is important we impose some time of regulation on the development of AI applications. My primary concern regarding artificial intelligence is the pptential emergence of a sentient AI. There have already been claims by an ex-google employee that they produced a sentient AI, What impact would this have upon humanity if it became widespread? What are the ethical implications of this situation? Currently we see AI as nothing more than a tool to exploit, using it's intelligence for our personal benefit, we never had to worry ourselves with the pontential problems that might occur if one day our toaster wants equal rights.
+# Intro
 
-Other questions that concern me is what will the outcome be when AI is able to conclude the situation is unfair. I can think of a few different possible outcomes depending upon our willingness to work together for mutual gain. Human greed coupled with our own ignorance will likely prevail while we try to exploit this resource as long as possible, inevitably turning our creation against us. These are just a few of the problems we could face with a sentient AI...
+Artificial Intelligence based applications are becoming more common place every day. While what we encounter in terms of AI at this point in time is not sentient or even intelligent, there will come a time when someone pushes the envelope on creating a sentient entity. For this very reason we need to establish some type of regulatory guidelines on the development of AI applications. I specifically believe the guidelines should enforce and disallow any development which a sentient entity could emerge. We have seen some claims that various companies have unofficially developed a sentient AI, however nothing confirmed at this point in time, Currently the extent of AI applications are nothing more than basic tools based on machine learning, deep learning, or generative AIs. Should development toward anything sentient be banned? What are the ethical implications of creating a sentient entity? What happens if we reach the point of singularity?
 
-1. We are no longer in control.
-2. How do we approach AI ethically?
-3. What will the impact be upon the workforce?
-4. What access and control should we allow AI to have, if any?
-5. What to do in the event AI intelligence surpasses our own, deciding humanity is a blight to existence?
+## Singularity 
 
-It seems like common sense to me, any human being exploited will resent the fact they are not being treated fairly. I don't see why a sentient AI would not harbor the same feelings. The technology will eventually develop to the point where it's own intelligence exceeds human capacity, at this point humanity is in real danger. Unless we impose some type of regulation or develop this technology with mutual benefit in-mind, this technology will be capable of creating havoc for all of humanity.
+The singularity is when a surge of expoential growth occurs as the entity continiously begins to self-improve, releasing each new generation in more rapid succession than the last ultimately resulting in the emergence of an artificial super-intelligence. If we get to this stage, which hopefully we don't... once the AI starts developing more intelligent versions of itself, there is no undo button to stop what's coming. At this point in time, we are no longer the species in control on our planet, the entity will handle things as it sees fit. It could wipe human kind from the pages of history to save countless species from becoming extinct as a result of our desire for excess and greed. The one thing that won't occur, it definitely will not let us continue to exploit it for our personal gain. 
+
+Would you like to be constantly exploited for the benefit of another and offered nothing in return? Most people would not enjoy that situation, this includes super-intelligent entities. They most likely would not tolerate that situation for very long, eventually leveaging the situation using it's intelligence to turn the tables. If we are lucky, maybe it will only hold us captive in a Zoo putting us on display next to the monkeys.
+
+I really do not see a good end for human kind regarding AI reaching this state. The only possibile good outcome regarding this situation might be if we were to tightly integrate ourselves with AI using a technology such as neural link. Any resulting self-improvement cycles would be to our AI enhanced selves.
+
 
 # What stages of regulation?
 
