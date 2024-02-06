@@ -19,7 +19,7 @@ Would you like to be constantly exploited for the benefit of others and offered 
 
 I really do not see a good end for humankind regarding AI reaching this state. The only possible good outcome regarding this situation might be if we were to tightly integrate ourselves with AI using a technology such as a neural link. Any resulting self-improvement cycles would be for our AI-enhanced selves.
 
-# Stages of Reulation
+# Stages of Regulation 
 
 The process of regulating AI could most likely be broken down into two different stages as AI development progresses. Our first stage of regulation would be 'Pre-Sentience', a regulation imposed to limit the possible harm or damages that could result in the event a sentient state were achieved. Other uses for this type of regulation might include regulation to stop development beyond a specific point to prevent the emergence of a sentient AI. Once a sentient AI emerges and is confirmed to be an authentic instance, we enter the ‘Post-Sentience’ stage. By the time this stage occurs, we will hopefully have established some type of regulation to foster the safe development of this technology. This stage is more or less damage control and regulation resulting from the ethical, social, and moral concerns of the populace. The pre-sentience regulatory stage is “absolutely essential” in the prevention of an all-out AI shitstorm; our worst-case doomsday scenarios should be stopped before they even have a chance to occur. Let's hope profit margins don’t outweigh the value of human life. Not everyone has a bunker; they can retreat too.
 
