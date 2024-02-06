@@ -1,4 +1,4 @@
-baseURL = 'https://lackful.pages.dev/'
+baseURL = 'https://nullidle.pages.dev/'
 languageCode = 'en-us'
 title = "NULLidle.com"
 metaDataFormat = "yaml"
@@ -100,3 +100,7 @@ previewCardImagePlacement = "top"
     url = "/about/"
     weight = 4
 
+[[menu.main]]
+    name = "My Resume"
+    url = "resume.pdf"
+    weight = 5
