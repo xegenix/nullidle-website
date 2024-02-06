@@ -95,12 +95,12 @@ previewCardImagePlacement = "top"
     url = "/collections/"
     weight = 3
 
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 4
+#[[menu.main]]
+#    name = "About"
+#    url = "/about/"
+#    weight = 4
 
 [[menu.main]]
     name = "My Resume"
     url = "resume.pdf"
-    weight = 5
+    weight = 4
