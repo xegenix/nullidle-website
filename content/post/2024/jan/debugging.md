@@ -1,9 +1,9 @@
 +++
-title = 'NULLidle Debugged'
+title = 'nullidle debugging'
 date = 2024-01-11T07:15:54-07:00
 draft = false
 image = '/img/posts/site-debugged.png'
-description = 'Few minor problems during the transition to a serverless website but we survived. Yay Cloudflare!'
+description = 'The current status of our transition to Cloudflare.'
 +++
 
 # Initial Plan
@@ -14,10 +14,9 @@ My goal was to start an entirely different website, but as I started using some 
 
 # End Results 
 
-While the outcome was not what I initially intended, it did have several benefits for both myself and end-users.
+We are still working on getting shit in order, but we did achieve a feew positives. 
 
-- Our site is now technically serverless.
-- Operation costs are down without the need to pay for a server.
-- Increased performance for end-users as content is served from their closest CDN provider
-- We got an unintended site upgrade for nullidle.com
-- We have become omni-potent! We exist no where, yet we are everywhere (Thanks Cloudflare!)
+- Eliminated the need for a server.
+- Massive performance gains for end-users, content served directly from CDN.
+- Un-intended upgrade for the nullidle website.
+- Omnipotence achieved. We exist nowhere, yet we are everywhere. Thanks Cloudflare
