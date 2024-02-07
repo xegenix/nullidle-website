@@ -426,11 +426,13 @@ footer .theme-by {
 }
 
 .post-title {
+  font-family: "Titillium Web", sans-serif;
   color: #313131;
 }
 
 .post-title:focus,
 .post-title:hover {
+  font-family: "Titillium Web", sans-serif;
   text-decoration: none;
   color: #344854;
 }
@@ -444,7 +446,6 @@ footer .theme-by {
 .post-preview .post-meta,
 .post-heading .post-meta,
 .page-meta {
-  font-family: 'Rubik', sans-serif !important;
   color: #808080;
   font-size: 13px;
   font-style: italic;
