@@ -1,7 +1,10 @@
 +++
-title = 'Quantim FU Fiber'
-date = 2024-02-10T15:23:46-07:00
-draft = false
+title: Quantum FU Fiber
+date: 2024-07-10 
+tags: ['fiber', 'internet', 'general', 'life','fml']
+image: '/img/posts/2024/1/ai-overlord.png'
+Description: 'Welcome to the slowest fiber internet possible thanks to Quantum FU Fiber. I got fiber and it blows.'
+featured: false
 +++
 
 # The Quantum FU Fiber	
