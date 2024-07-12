@@ -1,11 +1,10 @@
-===
-title: Quantum FU Fiber
-date: 2024-07-10 
-tags: ['fiber', 'internet', 'general', 'life','fml']
-image: '/img/posts/2024/1/ai-overlord.png'
-Description: 'Welcome to the slowest fiber internet possible thanks to Quantum FU Fiber. I got fiber and it blows.'
-featured: false
-===
++++
+title = 'nullidle debugging'
+date = 2024-07-11
+draft = false
+image = ''
+description = 'Here is something you don't hear very often. I got fiber internet and it blows.'
++++
 
 # The Quantum FU Fiber	
 I know one thing and one thing only, if life has a sexual preference... it's definitely me. You may think I am joking when I say that but anyone that gets to know me eventually admits... it really does have it out for me. So basically... long story short. I got fiber internet and it blows. Not because of the service itself, there is much more to this story. Since childhood I've dreamed of the day I could get a connection with the same uplink speed as down, since like 10 years old. I’ve waited damn near 28 years to run a viable server out of my own home. No longer would I need a dedicated server, I could eliminate countless paid VPS instances, it'd save me a metric shit-ton of cash.
